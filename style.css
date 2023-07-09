@@ -1,0 +1,46 @@
+*{
+  background-color: lightgray;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .container {
+    background-color: #fff;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .personal-info {
+    margin-bottom: 30px;
+  }
+  
+  .info-item {
+    margin-bottom: 15px;
+  }
+  
+  .info-item strong {
+    display: inline-block;
+    width: 120px;
+  }
+  
+  .section-title {
+    margin-bottom: 10px;
+  
